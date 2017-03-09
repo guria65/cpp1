@@ -1,0 +1,967 @@
+# depslib dependency file v1.0
+1299248295 source:c:\users\guria\documents\ppc1\main.cpp
+	"pp.cpp"
+
+1329096043 c:\users\guria\documents\ppc1\pp.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<R.h>
+	<Rdefines.h>
+
+1320224657 source:c:\users\guria\documents\ppc1\pp.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<R.h>
+	<Rdefines.h>
+
+1293375480 source:c:\users\guria\documents\ppc1\pp1.cpp
+	<cmath>
+	<iostream>
+	<cmath>
+
+1293375480 c:\users\guria\documents\ppc1\pp1.cpp
+	<cmath>
+	<iostream>
+	<cmath>
+
+1293676783 source:c:\users\guria\documents\ppc1\pp_1.cpp
+	<iostream.h>
+	<fstream.h>
+
+1293676783 c:\users\guria\documents\ppc1\pp_1.cpp
+	<iostream.h>
+	<fstream.h>
+
+1293805910 c:\users\guria\documents\ppc1\matrix.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1293757999 source:c:\users\guria\documents\ppc1\matrix.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1296321881 source:c:\users\guria\documents\ppc1\pp2.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	"pp.cpp"
+
+1298644080 source:c:\users\guria\documents\ppc1\pp2.c
+	<stdio.h>
+
+1298604849 c:\users\guria\documents\ppc1\fred.h
+
+1299242828 source:c:\users\guria\documents\trash\ppc1\main.cpp
+	"pp.cpp"
+
+1299246913 c:\users\guria\documents\trash\ppc1\pp.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1299247929 source:c:\users\guria\documents\trash\ppc1\pp.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1297858166 c:\program files\r\r-2.12.1\include\rcpp.h
+	<RcppCommon.h>
+	<Rcpp/exceptions.h>
+	<Rcpp/RObject.h>
+	<Rcpp/S4.h>
+	<Rcpp/Reference.h>
+	<Rcpp/clone.h>
+	<Rcpp/grow.h>
+	<Rcpp/Dimension.h>
+	<Rcpp/Environment.h>
+	<Rcpp/Evaluator.h>
+	<Rcpp/Vector.h>
+	<Rcpp/sugar/nona/nona.h>
+	<Rcpp/Fast.h>
+	<Rcpp/Extractor.h>
+	<Rcpp/XPtr.h>
+	<Rcpp/Symbol.h>
+	<Rcpp/Language.h>
+	<Rcpp/DottedPair.h>
+	<Rcpp/Pairlist.h>
+	<Rcpp/Function.h>
+	<Rcpp/WeakReference.h>
+	<Rcpp/StringTransformer.h>
+	<Rcpp/Formula.h>
+	<Rcpp/DataFrame.h>
+	<Rcpp/Date.h>
+	<Rcpp/DateVector.h>
+	<Rcpp/Datetime.h>
+	<Rcpp/DatetimeVector.h>
+	<Rcpp/Module.h>
+	<Rcpp/InternalFunction.h>
+	<Rmath.h>
+	<Rcpp/sugar/undoRmath.h>
+	<Rcpp/sugar/sugar.h>
+	<Rcpp/stats/stats.h>
+
+1297858167 c:\program files\r\r-2.12.1\include\rcppcommon.h
+	<Rcpp/config.h>
+	<Rcpp/macros/unroll.h>
+	<iterator>
+	<exception>
+	<iostream>
+	<sstream>
+	<string>
+	<list>
+	<map>
+	<set>
+	<stdexcept>
+	<vector>
+	<deque>
+	<functional>
+	<numeric>
+	<algorithm>
+	<complex>
+	<limits.h>
+	<typeinfo>
+	<Rcpp/sprintf.h>
+	<initializer_list>
+	<tr1/unordered_map>
+	<tr1/unordered_set>
+	<R.h>
+	<Rinternals.h>
+	<R_ext/Callbacks.h>
+	<R_ext/Complex.h>
+	<R_ext/Parse.h>
+	<R_ext/Rdynload.h>
+	<Rversion.h>
+	<Rcpp/lang.h>
+	<Rcpp/complex.h>
+	<Rcpp/barrier.h>
+	<Rcpp/internal/posixt.h>
+	<Rcpp/exceptions.h>
+	<typeinfo>
+	<Rcpp/traits/integral_constant.h>
+	<Rcpp/traits/same_type.h>
+	<Rcpp/traits/named_object.h>
+	<Rcpp/Named.h>
+	<Rcpp/traits/is_convertible.h>
+	<Rcpp/traits/has_iterator.h>
+	<Rcpp/traits/expands_to_logical.h>
+	<Rcpp/traits/matrix_interface.h>
+	<Rcpp/traits/is_sugar_expression.h>
+	<Rcpp/traits/has_na.h>
+	<Rcpp/traits/storage_type.h>
+	<Rcpp/traits/r_sexptype_traits.h>
+	<Rcpp/traits/storage_type.h>
+	<Rcpp/traits/r_type_traits.h>
+	<Rcpp/traits/wrap_type_traits.h>
+	<Rcpp/traits/is_na.h>
+	<Rcpp/traits/if_.h>
+	<Rcpp/traits/get_na.h>
+	<Rcpp/traits/is_trivial.h>
+	<Rcpp/traits/init_type.h>
+	<Rcpp/traits/is_const.h>
+	<Rcpp/traits/is_reference.h>
+	<Rcpp/traits/remove_const.h>
+	<Rcpp/traits/remove_reference.h>
+	<Rcpp/traits/remove_const_and_reference.h>
+	<Rcpp/traits/result_of.h>
+	<Rcpp/Generator.h>
+	<Rcpp/internal/caster.h>
+	<Rcpp/internal/r_vector.h>
+	<Rcpp/r_cast.h>
+	<Rcpp/internal/wrap_forward.h>
+	<Rcpp/Date_forward.h>
+	<Rcpp/Datetime_forward.h>
+	<Rcpp/internal/export.h>
+	<Rcpp/traits/Exporter.h>
+	<Rcpp/internal/r_coerce.h>
+	<Rcpp/as.h>
+	<Rcpp/vector/VectorBase.h>
+	<Rcpp/vector/MatrixBase.h>
+	<Rcpp/internal/wrap.h>
+	<Rcpp/internal/ListInitialization.h>
+	<Rcpp/internal/Proxy_Iterator.h>
+	<Rcpp/preprocessor.h>
+	<Rcpp/algo.h>
+	<Rcpp/sugar/sugar_forward.h>
+	<Rcpp/routines.h>
+	<Rcpp/cache.h>
+
+1297858168 c:\program files\r\r-2.12.1\include\rcpp\config.h
+
+1297858176 c:\program files\r\r-2.12.1\include\rcpp\macros\unroll.h
+
+1297858173 c:\program files\r\r-2.12.1\include\rcpp\sprintf.h
+	<cstdio>
+	<cstdarg>
+
+1284636730 c:\program files\r\r-2.12.1\include\r.h
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	<math.h>
+	<Rconfig.h>
+	<R_ext/Arith.h>
+	<R_ext/Boolean.h>
+	<R_ext/Complex.h>
+	<R_ext/Constants.h>
+	<R_ext/Error.h>
+	<R_ext/Memory.h>
+	<R_ext/Print.h>
+	<R_ext/Random.h>
+	<R_ext/Utils.h>
+	<R_ext/RS.h>
+
+1292492542 c:\program files\r\r-2.12.1\include\rconfig.h
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\arith.h
+	<R_ext/libextern.h>
+	<math.h>
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\libextern.h
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\boolean.h
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\complex.h
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\constants.h
+	<float.h>
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\error.h
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\memory.h
+	<stddef.h>
+
+1286451122 c:\program files\r\r-2.12.1\include\r_ext\print.h
+	<cstdarg>
+	<stdarg.h>
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\random.h
+	<R_ext/Boolean.h>
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\utils.h
+	<R_ext/Boolean.h>
+	<R_ext/Complex.h>
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\rs.h
+	<string.h>
+	<Rconfig.h>
+	<R_ext/Error.h>
+
+1286451122 c:\program files\r\r-2.12.1\include\rinternals.h
+	<cstdio>
+	<climits>
+	<stdio.h>
+	<limits.h>
+	<R_ext/Arith.h>
+	<R_ext/Boolean.h>
+	<R_ext/Complex.h>
+	<R_ext/Error.h>
+	<R_ext/Memory.h>
+	<R_ext/PrtUtil.h>
+	<R_ext/Utils.h>
+	<R_ext/libextern.h>
+	"Rinlinedfuns.h"
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\prtutil.h
+	<R_ext/Complex.h>
+	<R_ext/Print.h>
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\callbacks.h
+	<Rinternals.h>
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\parse.h
+
+1268799186 c:\program files\r\r-2.12.1\include\r_ext\rdynload.h
+	<R_ext/Boolean.h>
+
+1292492540 c:\program files\r\r-2.12.1\include\rversion.h
+
+1297858171 c:\program files\r\r-2.12.1\include\rcpp\lang.h
+
+1297858168 c:\program files\r\r-2.12.1\include\rcpp\complex.h
+
+1297858167 c:\program files\r\r-2.12.1\include\rcpp\barrier.h
+
+1297858175 c:\program files\r\r-2.12.1\include\rcpp\internal\posixt.h
+
+1297858170 c:\program files\r\r-2.12.1\include\rcpp\exceptions.h
+
+1297858205 c:\program files\r\r-2.12.1\include\rcpp\traits\integral_constant.h
+
+1297858207 c:\program files\r\r-2.12.1\include\rcpp\traits\same_type.h
+
+1297858206 c:\program files\r\r-2.12.1\include\rcpp\traits\named_object.h
+
+1297858171 c:\program files\r\r-2.12.1\include\rcpp\named.h
+
+1297858205 c:\program files\r\r-2.12.1\include\rcpp\traits\is_convertible.h
+
+1297858204 c:\program files\r\r-2.12.1\include\rcpp\traits\has_iterator.h
+
+1297858203 c:\program files\r\r-2.12.1\include\rcpp\traits\expands_to_logical.h
+
+1297858206 c:\program files\r\r-2.12.1\include\rcpp\traits\matrix_interface.h
+
+1297858206 c:\program files\r\r-2.12.1\include\rcpp\traits\is_sugar_expression.h
+
+1297858204 c:\program files\r\r-2.12.1\include\rcpp\traits\has_na.h
+
+1297858207 c:\program files\r\r-2.12.1\include\rcpp\traits\storage_type.h
+
+1297858207 c:\program files\r\r-2.12.1\include\rcpp\traits\r_sexptype_traits.h
+
+1297858207 c:\program files\r\r-2.12.1\include\rcpp\traits\r_type_traits.h
+
+1297858208 c:\program files\r\r-2.12.1\include\rcpp\traits\wrap_type_traits.h
+
+1297858205 c:\program files\r\r-2.12.1\include\rcpp\traits\is_na.h
+
+1297858204 c:\program files\r\r-2.12.1\include\rcpp\traits\if_.h
+
+1297858204 c:\program files\r\r-2.12.1\include\rcpp\traits\get_na.h
+
+1297858206 c:\program files\r\r-2.12.1\include\rcpp\traits\is_trivial.h
+
+1297858204 c:\program files\r\r-2.12.1\include\rcpp\traits\init_type.h
+
+1297858205 c:\program files\r\r-2.12.1\include\rcpp\traits\is_const.h
+	<Rcpp/traits/integral_constant.h>
+
+1297858205 c:\program files\r\r-2.12.1\include\rcpp\traits\is_reference.h
+	<Rcpp/traits/integral_constant.h>
+
+1297858206 c:\program files\r\r-2.12.1\include\rcpp\traits\remove_const.h
+
+1297858207 c:\program files\r\r-2.12.1\include\rcpp\traits\remove_reference.h
+
+1297858206 c:\program files\r\r-2.12.1\include\rcpp\traits\remove_const_and_reference.h
+	<Rcpp/traits/remove_const.h>
+	<Rcpp/traits/remove_reference.h>
+
+1297858207 c:\program files\r\r-2.12.1\include\rcpp\traits\result_of.h
+
+1297858170 c:\program files\r\r-2.12.1\include\rcpp\generator.h
+
+1297858175 c:\program files\r\r-2.12.1\include\rcpp\internal\caster.h
+
+1297858176 c:\program files\r\r-2.12.1\include\rcpp\internal\r_vector.h
+
+1297858172 c:\program files\r\r-2.12.1\include\rcpp\r_cast.h
+	<Rcpp/exceptions.h>
+
+1297858176 c:\program files\r\r-2.12.1\include\rcpp\internal\wrap_forward.h
+	<iterator>
+
+1297858169 c:\program files\r\r-2.12.1\include\rcpp\date_forward.h
+
+1297858169 c:\program files\r\r-2.12.1\include\rcpp\datetime_forward.h
+
+1297858175 c:\program files\r\r-2.12.1\include\rcpp\internal\export.h
+
+1297858203 c:\program files\r\r-2.12.1\include\rcpp\traits\exporter.h
+
+1297858175 c:\program files\r\r-2.12.1\include\rcpp\internal\r_coerce.h
+
+1297858167 c:\program files\r\r-2.12.1\include\rcpp\as.h
+
+1297858212 c:\program files\r\r-2.12.1\include\rcpp\vector\vectorbase.h
+
+1297858210 c:\program files\r\r-2.12.1\include\rcpp\vector\matrixbase.h
+	<Rcpp/sugar/matrix/tools.h>
+
+1297858198 c:\program files\r\r-2.12.1\include\rcpp\sugar\matrix\tools.h
+
+1297858176 c:\program files\r\r-2.12.1\include\rcpp\internal\wrap.h
+	<iterator>
+
+1297858175 c:\program files\r\r-2.12.1\include\rcpp\internal\listinitialization.h
+
+1297858175 c:\program files\r\r-2.12.1\include\rcpp\internal\proxy_iterator.h
+
+1297858171 c:\program files\r\r-2.12.1\include\rcpp\preprocessor.h
+	<Rcpp/preprocessor_generated.h>
+	<Rcpp/preprocessor/cat.hpp>
+
+1297858172 c:\program files\r\r-2.12.1\include\rcpp\preprocessor_generated.h
+
+1297858180 c:\program files\r\r-2.12.1\include\rcpp\preprocessor\cat.hpp
+	<Rcpp/preprocessor/config.hpp>
+
+1297858180 c:\program files\r\r-2.12.1\include\rcpp\preprocessor\config.hpp
+
+1297858167 c:\program files\r\r-2.12.1\include\rcpp\algo.h
+	<iterator>
+	<algorithm>
+
+1297858190 c:\program files\r\r-2.12.1\include\rcpp\sugar\sugar_forward.h
+	<Rcpp/sugar/operators/r_binary_op.h>
+	<Rcpp/sugar/logical/logical.h>
+	<Rcpp/sugar/Range.h>
+
+1297858202 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\r_binary_op.h
+
+1297858196 c:\program files\r\r-2.12.1\include\rcpp\sugar\logical\logical.h
+	<Rcpp/sugar/logical/can_have_na.h>
+	<Rcpp/sugar/logical/SingleLogicalResult.h>
+	<Rcpp/sugar/logical/not.h>
+	<Rcpp/sugar/logical/and.h>
+	<Rcpp/sugar/logical/or.h>
+	<Rcpp/sugar/logical/is.h>
+
+1297858196 c:\program files\r\r-2.12.1\include\rcpp\sugar\logical\can_have_na.h
+
+1297858197 c:\program files\r\r-2.12.1\include\rcpp\sugar\logical\singlelogicalresult.h
+
+1297858197 c:\program files\r\r-2.12.1\include\rcpp\sugar\logical\not.h
+
+1297858196 c:\program files\r\r-2.12.1\include\rcpp\sugar\logical\and.h
+
+1297858197 c:\program files\r\r-2.12.1\include\rcpp\sugar\logical\or.h
+
+1297858196 c:\program files\r\r-2.12.1\include\rcpp\sugar\logical\is.h
+
+1297858189 c:\program files\r\r-2.12.1\include\rcpp\sugar\range.h
+
+1297858172 c:\program files\r\r-2.12.1\include\rcpp\routines.h
+
+1297858167 c:\program files\r\r-2.12.1\include\rcpp\cache.h
+
+1297858172 c:\program files\r\r-2.12.1\include\rcpp\robject.h
+	<RcppCommon.h>
+
+1297858173 c:\program files\r\r-2.12.1\include\rcpp\s4.h
+	<RcppCommon.h>
+	<Rcpp/RObject.h>
+
+1297858172 c:\program files\r\r-2.12.1\include\rcpp\reference.h
+	<Rcpp/S4.h>
+	<Rcpp/exceptions.h>
+
+1297858167 c:\program files\r\r-2.12.1\include\rcpp\clone.h
+	<RcppCommon.h>
+
+1297858170 c:\program files\r\r-2.12.1\include\rcpp\grow.h
+	<RcppCommon.h>
+	<Rcpp/Named.h>
+	<Rcpp/generated/grow__pairlist.h>
+
+1297858174 c:\program files\r\r-2.12.1\include\rcpp\generated\grow__pairlist.h
+
+1297858169 c:\program files\r\r-2.12.1\include\rcpp\dimension.h
+	<RcppCommon.h>
+
+1297858169 c:\program files\r\r-2.12.1\include\rcpp\environment.h
+	<RcppCommon.h>
+	<Rcpp/exceptions.h>
+	<Rcpp/Evaluator.h>
+	<Rcpp/Symbol.h>
+	<Rcpp/Language.h>
+	<Rcpp/RObject.h>
+
+1297858169 c:\program files\r\r-2.12.1\include\rcpp\evaluator.h
+	<RcppCommon.h>
+	<Rcpp/Environment.h>
+
+1297858173 c:\program files\r\r-2.12.1\include\rcpp\symbol.h
+	<RcppCommon.h>
+	<Rcpp/RObject.h>
+
+1297858171 c:\program files\r\r-2.12.1\include\rcpp\language.h
+	<RcppCommon.h>
+	<Rcpp/DottedPair.h>
+	<Rcpp/Symbol.h>
+	<Rcpp/Function.h>
+	<Rcpp/grow.h>
+	<Rcpp/r_cast.h>
+	<Rcpp/generated/Language__ctors.h>
+
+1297858169 c:\program files\r\r-2.12.1\include\rcpp\dottedpair.h
+	<RcppCommon.h>
+	<Rcpp/exceptions.h>
+	<Rcpp/Symbol.h>
+	<Rcpp/grow.h>
+	<Rcpp/Named.h>
+	<Rcpp/RObject.h>
+	<Rcpp/generated/DottedPair__ctors.h>
+
+1297858174 c:\program files\r\r-2.12.1\include\rcpp\generated\dottedpair__ctors.h
+
+1297858170 c:\program files\r\r-2.12.1\include\rcpp\function.h
+	<RcppCommon.h>
+	<Rcpp/grow.h>
+	<Rcpp/RObject.h>
+	<Rcpp/generated/Function__operator.h>
+
+1297858174 c:\program files\r\r-2.12.1\include\rcpp\generated\function__operator.h
+
+1297858174 c:\program files\r\r-2.12.1\include\rcpp\generated\language__ctors.h
+
+1297858173 c:\program files\r\r-2.12.1\include\rcpp\vector.h
+	<RcppCommon.h>
+	<Rcpp/Evaluator.h>
+	<Rcpp/exceptions.h>
+	<Rcpp/RObject.h>
+	<Rcpp/r_cast.h>
+	<Rcpp/Dimension.h>
+	<Rcpp/vector/00_forward_Vector.h>
+	<Rcpp/vector/00_forward_proxy.h>
+	<Rcpp/vector/00_forward_eval_methods.h>
+	<Rcpp/vector/converter.h>
+	<Rcpp/vector/RangeIndexer.h>
+	<Rcpp/vector/Vector.h>
+	<Rcpp/vector/proxy.h>
+	<Rcpp/vector/eval_methods.h>
+	<Rcpp/vector/traits.h>
+	<Rcpp/vector/Matrix.h>
+	<Rcpp/vector/SubMatrix.h>
+	<Rcpp/vector/MatrixRow.h>
+	<Rcpp/vector/MatrixColumn.h>
+	<Rcpp/vector/instantiation.h>
+	<Rcpp/vector/string_proxy.h>
+	<Rcpp/vector/LazyVector.h>
+	<Rcpp/vector/swap.h>
+
+1297858209 c:\program files\r\r-2.12.1\include\rcpp\vector\00_forward_vector.h
+
+1297858208 c:\program files\r\r-2.12.1\include\rcpp\vector\00_forward_proxy.h
+
+1297858208 c:\program files\r\r-2.12.1\include\rcpp\vector\00_forward_eval_methods.h
+
+1297858209 c:\program files\r\r-2.12.1\include\rcpp\vector\converter.h
+
+1297858211 c:\program files\r\r-2.12.1\include\rcpp\vector\rangeindexer.h
+
+1297858212 c:\program files\r\r-2.12.1\include\rcpp\vector\vector.h
+	<Rcpp/generated/Vector__create.h>
+
+1297858175 c:\program files\r\r-2.12.1\include\rcpp\generated\vector__create.h
+
+1297858211 c:\program files\r\r-2.12.1\include\rcpp\vector\proxy.h
+
+1297858210 c:\program files\r\r-2.12.1\include\rcpp\vector\eval_methods.h
+
+1297858212 c:\program files\r\r-2.12.1\include\rcpp\vector\traits.h
+
+1297858210 c:\program files\r\r-2.12.1\include\rcpp\vector\matrix.h
+
+1297858211 c:\program files\r\r-2.12.1\include\rcpp\vector\submatrix.h
+
+1297858211 c:\program files\r\r-2.12.1\include\rcpp\vector\matrixrow.h
+
+1297858211 c:\program files\r\r-2.12.1\include\rcpp\vector\matrixcolumn.h
+
+1297858210 c:\program files\r\r-2.12.1\include\rcpp\vector\instantiation.h
+
+1297858211 c:\program files\r\r-2.12.1\include\rcpp\vector\string_proxy.h
+
+1297858210 c:\program files\r\r-2.12.1\include\rcpp\vector\lazyvector.h
+
+1297858212 c:\program files\r\r-2.12.1\include\rcpp\vector\swap.h
+
+1297858199 c:\program files\r\r-2.12.1\include\rcpp\sugar\nona\nona.h
+
+1297858170 c:\program files\r\r-2.12.1\include\rcpp\fast.h
+
+1297858170 c:\program files\r\r-2.12.1\include\rcpp\extractor.h
+
+1297858173 c:\program files\r\r-2.12.1\include\rcpp\xptr.h
+	<RcppCommon.h>
+
+1297858171 c:\program files\r\r-2.12.1\include\rcpp\pairlist.h
+	<RcppCommon.h>
+	<Rcpp/DottedPair.h>
+	<Rcpp/r_cast.h>
+	<Rcpp/generated/Pairlist__ctors.h>
+
+1297858174 c:\program files\r\r-2.12.1\include\rcpp\generated\pairlist__ctors.h
+
+1297858173 c:\program files\r\r-2.12.1\include\rcpp\weakreference.h
+	<RcppCommon.h>
+	<Rcpp/RObject.h>
+
+1297858173 c:\program files\r\r-2.12.1\include\rcpp\stringtransformer.h
+	<RcppCommon.h>
+
+1297858170 c:\program files\r\r-2.12.1\include\rcpp\formula.h
+	<RcppCommon.h>
+	<Rcpp/Language.h>
+
+1297858168 c:\program files\r\r-2.12.1\include\rcpp\dataframe.h
+	<RcppCommon.h>
+	<Rcpp/Vector.h>
+	<Rcpp/DataFrame_generated.h>
+
+1297858168 c:\program files\r\r-2.12.1\include\rcpp\dataframe_generated.h
+
+1297858168 c:\program files\r\r-2.12.1\include\rcpp\date.h
+	<RcppCommon.h>
+
+1297858169 c:\program files\r\r-2.12.1\include\rcpp\datevector.h
+	<RcppCommon.h>
+
+1297858168 c:\program files\r\r-2.12.1\include\rcpp\datetime.h
+	<RcppCommon.h>
+
+1297858168 c:\program files\r\r-2.12.1\include\rcpp\datetimevector.h
+	<RcppCommon.h>
+
+1297858171 c:\program files\r\r-2.12.1\include\rcpp\module.h
+	<Rcpp/config.h>
+	<Rcpp/module/Module_generated_get_return_type.h>
+	<Rcpp/module/Module_generated_get_signature.h>
+	<Rcpp/module/Module_generated_CppFunction.h>
+	<Rcpp/module/Module_generated_ctor_signature.h>
+	<Rcpp/module/Module_generated_Constructor.h>
+	<Rcpp/module/Module_generated_class_signature.h>
+	<Rcpp/module/Module_generated_CppMethod.h>
+	<Rcpp/module/Module_generated_Pointer_CppMethod.h>
+	<Rcpp/module/Module_Property.h>
+	<Rcpp/module/Module_generated_class_constructor.h>
+	<Rcpp/module/Module_generated_method.h>
+	<Rcpp/module/Module_generated_Pointer_method.h>
+	<Rcpp/module/Module_Field.h>
+	<Rcpp/module/Module_Add_Property.h>
+	<Rcpp/module/Module_generated_function.h>
+
+1297858178 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_get_return_type.h
+
+1297858178 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_get_signature.h
+
+1297858177 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_cppfunction.h
+
+1297858178 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_ctor_signature.h
+
+1297858177 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_constructor.h
+
+1297858177 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_class_signature.h
+
+1297858177 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_cppmethod.h
+
+1297858179 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_pointer_cppmethod.h
+
+1297858180 c:\program files\r\r-2.12.1\include\rcpp\module\module_property.h
+
+1297858176 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_class_constructor.h
+
+1297858179 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_method.h
+
+1297858179 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_pointer_method.h
+
+1297858176 c:\program files\r\r-2.12.1\include\rcpp\module\module_field.h
+
+1297858176 c:\program files\r\r-2.12.1\include\rcpp\module\module_add_property.h
+
+1297858178 c:\program files\r\r-2.12.1\include\rcpp\module\module_generated_function.h
+
+1297858170 c:\program files\r\r-2.12.1\include\rcpp\internalfunction.h
+	<RcppCommon.h>
+	<Rcpp/grow.h>
+	<Rcpp/RObject.h>
+	<Rcpp/generated/InternalFunction__ctors.h>
+
+1297858174 c:\program files\r\r-2.12.1\include\rcpp\generated\internalfunction__ctors.h
+
+1292492542 c:\program files\r\r-2.12.1\include\rmath.h
+	<math.h>
+	<R_ext/Boolean.h>
+
+1297858190 c:\program files\r\r-2.12.1\include\rcpp\sugar\undormath.h
+
+1297858190 c:\program files\r\r-2.12.1\include\rcpp\sugar\sugar.h
+	<Rcpp/sugar/block/block.h>
+	<Rcpp/sugar/operators/operators.h>
+	<Rcpp/sugar/functions/functions.h>
+	<Rcpp/sugar/matrix/matrix_functions.h>
+
+1297858190 c:\program files\r\r-2.12.1\include\rcpp\sugar\block\block.h
+	<Rcpp/sugar/block/SugarBlock_1.h>
+	<Rcpp/sugar/block/SugarBlock_2.h>
+	<Rcpp/sugar/block/SugarBlock_3.h>
+	<Rcpp/sugar/block/SugarMath.h>
+	<Rcpp/sugar/block/Vectorized_Math.h>
+
+1297858190 c:\program files\r\r-2.12.1\include\rcpp\sugar\block\sugarblock_1.h
+
+1297858190 c:\program files\r\r-2.12.1\include\rcpp\sugar\block\sugarblock_2.h
+
+1297858191 c:\program files\r\r-2.12.1\include\rcpp\sugar\block\sugarblock_3.h
+
+1297858191 c:\program files\r\r-2.12.1\include\rcpp\sugar\block\sugarmath.h
+
+1297858191 c:\program files\r\r-2.12.1\include\rcpp\sugar\block\vectorized_math.h
+
+1297858201 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\operators.h
+	<Rcpp/sugar/operators/Comparator.h>
+	<Rcpp/sugar/operators/Comparator_With_One_Value.h>
+	<Rcpp/sugar/operators/logical_operators__Vector__Vector.h>
+	<Rcpp/sugar/operators/logical_operators__Vector__primitive.h>
+	<Rcpp/sugar/operators/plus.h>
+	<Rcpp/sugar/operators/minus.h>
+	<Rcpp/sugar/operators/times.h>
+	<Rcpp/sugar/operators/divides.h>
+	<Rcpp/sugar/operators/not.h>
+	<Rcpp/sugar/operators/unary_minus.h>
+
+1297858199 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\comparator.h
+
+1297858199 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\comparator_with_one_value.h
+
+1297858201 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\logical_operators__vector__vector.h
+
+1297858200 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\logical_operators__vector__primitive.h
+
+1297858201 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\plus.h
+
+1297858201 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\minus.h
+
+1297858202 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\times.h
+
+1297858200 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\divides.h
+
+1297858201 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\not.h
+
+1297858203 c:\program files\r\r-2.12.1\include\rcpp\sugar\operators\unary_minus.h
+
+1297858192 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\functions.h
+	<cmath>
+	<Rcpp/sugar/functions/Lazy.h>
+	<Rcpp/sugar/functions/math.h>
+	<Rcpp/sugar/functions/complex.h>
+	<Rcpp/sugar/functions/any.h>
+	<Rcpp/sugar/functions/all.h>
+	<Rcpp/sugar/functions/is_na.h>
+	<Rcpp/sugar/functions/seq_along.h>
+	<Rcpp/sugar/functions/sapply.h>
+	<Rcpp/sugar/functions/lapply.h>
+	<Rcpp/sugar/functions/ifelse.h>
+	<Rcpp/sugar/functions/pmin.h>
+	<Rcpp/sugar/functions/pmax.h>
+	<Rcpp/sugar/functions/sign.h>
+	<Rcpp/sugar/functions/diff.h>
+	<Rcpp/sugar/functions/pow.h>
+	<Rcpp/sugar/functions/rep.h>
+	<Rcpp/sugar/functions/rep_len.h>
+	<Rcpp/sugar/functions/rep_each.h>
+	<Rcpp/sugar/functions/rev.h>
+	<Rcpp/sugar/functions/head.h>
+	<Rcpp/sugar/functions/tail.h>
+	<Rcpp/sugar/functions/sum.h>
+	<Rcpp/sugar/functions/cumsum.h>
+
+1297858193 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\lazy.h
+
+1297858194 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\math.h
+
+1297858192 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\complex.h
+
+1297858192 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\any.h
+
+1297858191 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\all.h
+
+1297858193 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\is_na.h
+
+1297858195 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\seq_along.h
+
+1297858195 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\sapply.h
+
+1297858193 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\lapply.h
+
+1297858192 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\ifelse.h
+
+1297858194 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\pmin.h
+
+1297858194 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\pmax.h
+
+1297858195 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\sign.h
+
+1297858192 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\diff.h
+
+1297858194 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\pow.h
+
+1297858194 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\rep.h
+
+1297858195 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\rep_len.h
+
+1297858195 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\rep_each.h
+
+1297858195 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\rev.h
+
+1297858192 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\head.h
+
+1297858196 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\tail.h
+
+1297858196 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\sum.h
+
+1297858192 c:\program files\r\r-2.12.1\include\rcpp\sugar\functions\cumsum.h
+
+1297858198 c:\program files\r\r-2.12.1\include\rcpp\sugar\matrix\matrix_functions.h
+	<Rcpp/sugar/matrix/outer.h>
+	<Rcpp/sugar/matrix/row.h>
+	<Rcpp/sugar/matrix/col.h>
+	<Rcpp/sugar/matrix/lower_tri.h>
+	<Rcpp/sugar/matrix/upper_tri.h>
+	<Rcpp/sugar/matrix/diag.h>
+	<Rcpp/sugar/matrix/as_vector.h>
+
+1297858198 c:\program files\r\r-2.12.1\include\rcpp\sugar\matrix\outer.h
+
+1297858198 c:\program files\r\r-2.12.1\include\rcpp\sugar\matrix\row.h
+
+1297858197 c:\program files\r\r-2.12.1\include\rcpp\sugar\matrix\col.h
+
+1297858198 c:\program files\r\r-2.12.1\include\rcpp\sugar\matrix\lower_tri.h
+
+1297858198 c:\program files\r\r-2.12.1\include\rcpp\sugar\matrix\upper_tri.h
+
+1297858197 c:\program files\r\r-2.12.1\include\rcpp\sugar\matrix\diag.h
+
+1297858197 c:\program files\r\r-2.12.1\include\rcpp\sugar\matrix\as_vector.h
+
+1297858183 c:\program files\r\r-2.12.1\include\rcpp\stats\stats.h
+	<Rcpp/stats/dpq/dpq.h>
+	<Rcpp/stats/unif.h>
+	<Rcpp/stats/norm.h>
+	<Rcpp/stats/gamma.h>
+	<Rcpp/stats/chisq.h>
+	<Rcpp/stats/beta.h>
+	<Rcpp/stats/t.h>
+	<Rcpp/stats/lnorm.h>
+	<Rcpp/stats/weibull.h>
+	<Rcpp/stats/logis.h>
+	<Rcpp/stats/f.h>
+	<Rcpp/stats/exp.h>
+	<Rcpp/stats/cauchy.h>
+	<Rcpp/stats/geom.h>
+	<Rcpp/stats/hyper.h>
+	<Rcpp/stats/nt.h>
+	<Rcpp/stats/nchisq.h>
+	<Rcpp/stats/nbeta.h>
+	<Rcpp/stats/nf.h>
+	<Rcpp/stats/nbinom.h>
+	<Rcpp/stats/nbinom_mu.h>
+	<Rcpp/stats/binom.h>
+	<Rcpp/stats/pois.h>
+	<Rcpp/stats/random/random.h>
+
+1297858184 c:\program files\r\r-2.12.1\include\rcpp\stats\dpq\dpq.h
+	<Rcpp/stats/dpq/macros.h>
+
+1297858184 c:\program files\r\r-2.12.1\include\rcpp\stats\dpq\macros.h
+
+1297858184 c:\program files\r\r-2.12.1\include\rcpp\stats\unif.h
+
+1297858183 c:\program files\r\r-2.12.1\include\rcpp\stats\norm.h
+
+1297858181 c:\program files\r\r-2.12.1\include\rcpp\stats\gamma.h
+
+1297858181 c:\program files\r\r-2.12.1\include\rcpp\stats\chisq.h
+
+1297858180 c:\program files\r\r-2.12.1\include\rcpp\stats\beta.h
+
+1297858184 c:\program files\r\r-2.12.1\include\rcpp\stats\t.h
+
+1297858182 c:\program files\r\r-2.12.1\include\rcpp\stats\lnorm.h
+
+1297858184 c:\program files\r\r-2.12.1\include\rcpp\stats\weibull.h
+
+1297858182 c:\program files\r\r-2.12.1\include\rcpp\stats\logis.h
+
+1297858181 c:\program files\r\r-2.12.1\include\rcpp\stats\f.h
+
+1297858181 c:\program files\r\r-2.12.1\include\rcpp\stats\exp.h
+
+1297858181 c:\program files\r\r-2.12.1\include\rcpp\stats\cauchy.h
+
+1297858182 c:\program files\r\r-2.12.1\include\rcpp\stats\geom.h
+
+1297858182 c:\program files\r\r-2.12.1\include\rcpp\stats\hyper.h
+
+1297858183 c:\program files\r\r-2.12.1\include\rcpp\stats\nt.h
+
+1297858183 c:\program files\r\r-2.12.1\include\rcpp\stats\nchisq.h
+
+1297858182 c:\program files\r\r-2.12.1\include\rcpp\stats\nbeta.h
+
+1297858183 c:\program files\r\r-2.12.1\include\rcpp\stats\nf.h
+
+1297858182 c:\program files\r\r-2.12.1\include\rcpp\stats\nbinom.h
+
+1297858183 c:\program files\r\r-2.12.1\include\rcpp\stats\nbinom_mu.h
+
+1297858180 c:\program files\r\r-2.12.1\include\rcpp\stats\binom.h
+
+1297858183 c:\program files\r\r-2.12.1\include\rcpp\stats\pois.h
+
+1297858185 c:\program files\r\r-2.12.1\include\rcpp\stats\random\random.h
+	<Rcpp/stats/random/rnorm.h>
+	<Rcpp/stats/random/runif.h>
+	<Rcpp/stats/random/rgamma.h>
+	<Rcpp/stats/random/rbeta.h>
+	<Rcpp/stats/random/rlnorm.h>
+	<Rcpp/stats/random/rchisq.h>
+	<Rcpp/stats/random/rnchisq.h>
+	<Rcpp/stats/random/rf.h>
+	<Rcpp/stats/random/rt.h>
+	<Rcpp/stats/random/rbinom.h>
+	<Rcpp/stats/random/rcauchy.h>
+	<Rcpp/stats/random/rexp.h>
+	<Rcpp/stats/random/rgeom.h>
+	<Rcpp/stats/random/rnbinom.h>
+	<Rcpp/stats/random/rnbinom_mu.h>
+	<Rcpp/stats/random/rpois.h>
+	<Rcpp/stats/random/rweibull.h>
+	<Rcpp/stats/random/rlogis.h>
+	<Rcpp/stats/random/rwilcox.h>
+	<Rcpp/stats/random/rsignrank.h>
+	<Rcpp/stats/random/rhyper.h>
+
+1297858188 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rnorm.h
+
+1297858188 c:\program files\r\r-2.12.1\include\rcpp\stats\random\runif.h
+
+1297858186 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rgamma.h
+
+1297858185 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rbeta.h
+
+1297858186 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rlnorm.h
+
+1297858185 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rchisq.h
+
+1297858187 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rnchisq.h
+
+1297858185 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rf.h
+
+1297858188 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rt.h
+
+1297858185 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rbinom.h
+
+1297858185 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rcauchy.h
+
+1297858185 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rexp.h
+
+1297858186 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rgeom.h
+
+1297858186 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rnbinom.h
+
+1297858187 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rnbinom_mu.h
+
+1297858188 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rpois.h
+
+1297858189 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rweibull.h
+
+1297858186 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rlogis.h
+
+1297858189 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rwilcox.h
+
+1297858188 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rsignrank.h
+
+1297858186 c:\program files\r\r-2.12.1\include\rcpp\stats\random\rhyper.h
+
+1268799186 c:\program files\r\r-2.12.1\include\rdefines.h
+	<R_ext/Memory.h>
+	<R_ext/RS.h>
+	<Rinternals.h>
+

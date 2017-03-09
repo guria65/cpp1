@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1303184466 source:c:\users\guria\documents\ppc2\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<stdio.h>
+	<io.h>
+	<stdlib.h>
+
+1299764002 source:c:\users\guria\documents\ppc2\pp2.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1299248218 c:\users\guria\documents\ppc1\pp.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1299764002 c:\users\guria\documents\ppc2\pp2.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
+1300249644 source:c:\users\guria\documents\ppc2\test.cpp
+	"test.h"
+
+1300249644 c:\users\guria\documents\ppc2\test.h
+
