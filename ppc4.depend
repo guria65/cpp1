@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1299238546 source:c:\users\guria\documents\ppc4\pp4.cpp
+	<iostream>
+
+1299163721 source:c:\users\guria\documents\ppc4\main.cpp
+	<iostream>
+	"pp4.cpp"
+
+1299164082 c:\users\guria\documents\ppc4\pp4.cpp
+	<iostream>
+
